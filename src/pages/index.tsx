@@ -138,7 +138,7 @@ const links = [
 
 const IndexPage: React.FC<PageProps> = () => {
   return (
-    <h1>Hola Mi Amor! Feliz Meses!</h1>
+    <h1 style={{position: "absolute", top: "25%", left: "50%", transform: "translate(-50%, -25%)", color: "red"}}>Hola Mi Amor! Feliz Meses!</h1>
     // <main style={pageStyles}>
     //   <h1 style={headingStyles}>
     //     Congratulations‼️‼️‼️‼️
